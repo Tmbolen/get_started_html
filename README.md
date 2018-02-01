@@ -4,4 +4,4 @@ You will use this repository for the HTML and CSS exercises, as described in the
 
 View the web page at:  https://markhoeber.github.io/get_started_html/index.html
 
-When you fork this repository, update settings to use the master branch as the source for GitHub pages. Then view: https://Tmbolen.github.io/get_started_html/index.html.
+When you fork this repository, update settings to use the master branch as the source for GitHub pages. Then view: https://tmbolen.github.io/get_started_html/index.html.
